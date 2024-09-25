@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 - Computer Science student at PUCPR.<br> 🦫 - GoLang fanboy.<br>  🇵 - 1/2 of P++.<br>🎮 - Former professional CS:GO player.<br>🎵 - Music lover.<br>📖 - Always after knowledge!<br>
+👨‍💻 - Computer Science student at PUCPR.<br> 🦫 - GoLang fanboy.<br>   🇵 - 1/2 of P++.<br>🎮 - Former professional CS:GO player.<br>🎵 - Music lover.<br>📖 - Always after knowledge!<br>
 
 
 ## 🌐 How to reach me:
