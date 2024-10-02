@@ -2,7 +2,6 @@
 👨‍💻 - Computer Science student at PUCPR.<br> 🦫 - GoLang fanboy.<br>   🇵 - 1/2 of P++.<br>🎮 - Former professional CS:GO player.<br>🎵 - Music lover.<br>📖 - Always after knowledge!<br>
 
 #
-<br>
 # 🌐 How to reach me:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-g-martins) [![](https://img.shields.io/website?url=https%3A%2F%2Fpedrogradowski.com&style=flat&label=My%20Website)](https://pedrogradowski.com)
 
