@@ -2,7 +2,7 @@
 👨‍💻 - Computer Science student at PUCPR.<br>🅿️- 1/2 of P++.<br>🎮 - Former professional CS:GO player.<br>🎵 - Music lover.<br>📖 - Always after knowledge!<br>
 
 # 🌐 How to reach me:
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-g-martins) [![](https://img.shields.io/website?url=https%3A%2F%2Fpedrogradowski.com&style=flat&label=My%20Website)](https://pedrogradowski.com)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-g-martins) [![](https://img.shields.io/website?url=https%3A%2F%2Fpedrogradowski.com&style=flat&label=My%20Website)](https://pedromartins.tech)
 
 ## Socials:
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pontope.pe) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@pontope) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/pontope) [![](https://img.shields.io/youtube/channel/subscribers/UCKckVswEd8d9LEtQCs9ESrA)](https://www.youtube.com/@pontopepe) 
