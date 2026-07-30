@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title description">
+  <title id="title">Pedro Gradowski Martins - cyber terminal profile</title>
+  <desc id="description">Animated terminal header for a DevSecOps and Cloud Security Engineer.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b0f14"/>
+      <stop offset="0.55" stop-color="#111820"/>
+      <stop offset="1" stop-color="#07110d"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00e676"/>
+      <stop offset="1" stop-color="#00b8d4"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#6e7681" stroke-width="0.5" opacity="0.12"/>
+    </pattern>
+    <filter id="glow" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <style>
+    .mono { font-family: "SFMono-Regular", Consolas, "Liberation Mono", monospace; }
+    .cursor { animation: blink 1s steps(1) infinite; }
+    .status { animation: pulse 2.4s ease-in-out infinite; }
+    .scan { animation: scan 7s linear infinite; }
+    @keyframes blink { 0%, 48% { opacity: 1; } 49%, 100% { opacity: 0; } }
+    @keyframes pulse { 0%, 100% { opacity: .55; } 50% { opacity: 1; } }
+    @keyframes scan { from { transform: translateY(-360px); } to { transform: translateY(360px); } }
+  </style>
+
+  <rect x="2" y="2" width="1196" height="356" rx="18" fill="url(#bg)" stroke="#30363d" stroke-width="4"/>
+  <rect x="2" y="2" width="1196" height="58" rx="18" fill="#161b22"/>
+  <rect x="2" y="42" width="1196" height="18" fill="#161b22"/>
+  <circle cx="34" cy="31" r="8" fill="#ff5f56"/>
+  <circle cx="60" cy="31" r="8" fill="#ffbd2e"/>
+  <circle cx="86" cy="31" r="8" fill="#27c93f"/>
+  <text x="600" y="37" text-anchor="middle" class="mono" font-size="16" fill="#8b949e">pontope@github: ~/profile</text>
+
+  <rect x="2" y="60" width="1196" height="296" fill="url(#grid)"/>
+  <rect x="20" y="72" width="1160" height="4" fill="url(#accent)" opacity=".75"/>
+  <rect class="scan" x="20" y="-20" width="1160" height="90" fill="url(#accent)" opacity=".035"/>
+
+  <text x="58" y="116" class="mono" font-size="20" fill="#8b949e">$ ./boot-profile --secure --evidence-first</text>
+  <text x="58" y="170" class="mono" font-size="38" font-weight="700" fill="#f0f6fc">PEDRO GRADOWSKI MARTINS</text>
+  <text x="58" y="214" class="mono" font-size="24" font-weight="600" fill="url(#accent)" filter="url(#glow)">DEVSECOPS  //  CLOUD SECURITY  //  BACKEND AUTOMATION</text>
+
+  <text x="58" y="264" class="mono" font-size="18" fill="#c9d1d9">AWS</text>
+  <text x="112" y="264" class="mono" font-size="18" fill="#484f58">|</text>
+  <text x="132" y="264" class="mono" font-size="18" fill="#c9d1d9">LINUX</text>
+  <text x="202" y="264" class="mono" font-size="18" fill="#484f58">|</text>
+  <text x="222" y="264" class="mono" font-size="18" fill="#c9d1d9">KUBERNETES</text>
+  <text x="346" y="264" class="mono" font-size="18" fill="#484f58">|</text>
+  <text x="366" y="264" class="mono" font-size="18" fill="#c9d1d9">TERRAFORM</text>
+  <text x="470" y="264" class="mono" font-size="18" fill="#484f58">|</text>
+  <text x="490" y="264" class="mono" font-size="18" fill="#c9d1d9">PYTHON</text>
+  <text x="566" y="264" class="mono" font-size="18" fill="#484f58">|</text>
+  <text x="586" y="264" class="mono" font-size="18" fill="#c9d1d9">GO</text>
+
+  <circle class="status" cx="68" cy="314" r="7" fill="#00e676"/>
+  <text x="88" y="320" class="mono" font-size="18" fill="#00e676">SYSTEM ONLINE</text>
+  <text x="270" y="320" class="mono" font-size="18" fill="#8b949e">secure defaults loaded</text>
+  <text x="1092" y="320" text-anchor="end" class="mono" font-size="18" fill="#8b949e">ready</text>
+  <rect class="cursor" x="1105" y="302" width="13" height="22" rx="1" fill="#00e676"/>
+
+  <!-- TODO: Refresh role, stack, and status when the profile focus changes. -->
+</svg>
